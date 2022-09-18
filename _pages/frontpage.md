@@ -1,10 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: Home
 list_title: My blog posts
 ---
 
 <img src="./assets/images/frontpage.png">
-
 
