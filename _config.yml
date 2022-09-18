@@ -1,3 +1,8 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: "Soupbowl's Speakeasy"
+description: "FreeBSD and other IT guides."
+
+show_downloads: "false"
