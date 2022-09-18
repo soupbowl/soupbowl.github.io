@@ -1,8 +1,11 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
+
+minima:
+  skin: dark
 
 title: "Soupbowl's Speakeasy"
 description: "FreeBSD and other IT guides."
 
-show_downloads: "false"
+show_downloads: false
