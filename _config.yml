@@ -1,41 +1,24 @@
 remote_theme: jekyll/minima
 plugins:
+- jekyll-feed
 - jekyll-remote-theme
 
 minima:
   skin: dark
   
+  # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github: jekyll
-    stackoverflow: "11111"
-    dribbble: jekyll
-    facebook: jekyll
-    flickr: jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    telegram: jekyll
-    microdotblog: jekyll
-    keybase: jekyll
+    github: soupbowl
 
-    mastodon:
-     - username: jekyll
-       instance: example.com
-     - username: jekyll2
-       instance: example.com
-
-    gitlab:
-     - username: jekyll
-       instance: example.com
-     - username: jekyll2
-       instance: example.com
-
-    youtube: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    youtube_channel_name: CloudCannon
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 title: "Soupbowl's Speakeasy"
+author:
+  name: soupbowl
 description: "FreeBSD and other IT guides."
 
-show_downloads: false
+show_excerpts: true
+
