@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Testing index.md additions
-
+# Welcome to my place.
 <img src="./assets/images/frontpage.png">
 
+## Latest posts:
