@@ -7,3 +7,8 @@
 #
 layout: home
 ---
+
+Testing index.md additions
+
+<img src="./assets/images/frontpage.png">
+
