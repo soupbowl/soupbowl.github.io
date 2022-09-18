@@ -4,14 +4,12 @@ title: About
 permalink: /about
 ---
 
-<img src="./assets/images/frontpage.png">
+<img src="./assets/images/about.png">
 
 
-Website built using:
-
+Website built using: 
 [jekyll](https://github.com/jekyll/jekyll)
 
 Theme:
-
 [minima](https://github.com/jekyll/minima)
 
