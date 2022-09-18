@@ -2,9 +2,6 @@ remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 
-minima:
-  skin: dark
-
 title: "Soupbowl's Speakeasy"
 description: "FreeBSD and other IT guides."
 
