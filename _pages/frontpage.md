@@ -5,7 +5,7 @@ title: Home
 list_title: My latest blog posts
 ---
 
-![placeholder](/assets/images/frontpage.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![placeholder](/assets/images/frontpage.png){:.centered}
 
-<img src="/assets/images/frontpage.png">
+
 
