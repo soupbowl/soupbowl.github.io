@@ -5,6 +5,3 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.site-header {
-   border-top: 5px solid #530036;
-}

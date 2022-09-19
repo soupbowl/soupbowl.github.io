@@ -10,5 +10,9 @@ img.centered {
 }
 
 .site-header {
-   border-top: 5px solid #530036;
+  border-top: 5px solid #530036;
+  background-image: url("/assests/images/header.png");
+  background-size: 2px 2px;
+  background-position: 0 0;
+  background-repeat: repeat;
 }
